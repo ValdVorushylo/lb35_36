@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Локалізований додаток 1</string>
+    <string name="hello_world">Добрий ранок!</string>
+    <string name="welcome">Вітаємо!</string>
+    <string name="string1">Вітаємо </string>
+    <string name="string2">Добре</string>
+</resources>

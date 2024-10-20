@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Localization!</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="welcome">Welcome!</string>
+    <string name="string1">Invitation</string>
+    <string name="string2">Well</string>
+    <string name="forward" translatable="false">My application</string>
+</resources>
